@@ -9,6 +9,10 @@ class GravitySource {
     sf::CircleShape s;
 
 
+/// <summary>
+/// asdasdasdsadkasdkashdkaskdhaskjdkajshd
+///     asdfasdfsafasdfasdfadsfdasfasdfas
+/// </summary>
 public:
     GravitySource(float pos_x, float pos_y, float strength) {
         pos.x = pos_x;
